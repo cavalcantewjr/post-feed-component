@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!--START_SECTION:header-->
 
 
@@ -25,3 +26,6 @@ Washington Cavalcante - [LinkedIn](https://www.linkedin.com/in/washington-cavalc
 
 <!--END_SECTION:footer-->
 
+=======
+# post-feed-component
+>>>>>>> c1d51cb75ae41a6e244b8c451b31da3aff169942
