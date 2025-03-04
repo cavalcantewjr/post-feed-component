@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <!--START_SECTION:header-->
 
 
